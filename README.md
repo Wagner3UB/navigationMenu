@@ -6,7 +6,7 @@
 >
 > PT - Menu animado muito bonito com uma transição muito legal entre os itens ativos
 >
-> IT - Questo è un menu animato molto bello con una transizione molto interessante tra gli elementi ativi
+> IT - Questo è un menu animato molto bello con una transizione molto interessante tra gli elementi attivi
 
 ✔ This code uses:
 
